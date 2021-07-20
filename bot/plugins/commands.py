@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '⚠️join group⚠️', url='"https://t.me/whitedevilFZg610EpRd0wNGZl"
+                                    '⚠️join group⚠️', url='https://t.me/whitedevilFZg610EpRd0wNGZl'
                                 )
                         ]
                     ]
