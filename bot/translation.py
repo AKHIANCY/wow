@@ -10,7 +10,7 @@ class Translation(object):
 You can't add me to your group 🚫
 
 For More Details Click Help Button Below..
-@racoons
+@https://t.me/racoonsl
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@racoons
+@https://t.me/racoonsl
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
